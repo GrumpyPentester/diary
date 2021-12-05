@@ -4,6 +4,7 @@ title:  "'Tis the season to be tested"
 date:   2021-12-05 00:00:00
 categories: diary
 ---
+<h1>'Tis the season to be tested</h1>
 
 Oh look, it's almost the end of the year again. After using all the funds and ticking all the checkboxes for their Top 1000-whatever company, the board looks at the last thing on the list. Way past new furniture, new pointless internal software that only makes a regular worker's life even more tedious, that last item stares back at them: **the annual penetration test**. Oh, the dreaded security test. You know that test that will tell them how safe their products are. Previously working into regular software testing, I was always amazed how late into the development process software testing was getting involved. You would see on a regular basis software changes that were deployed to production environments with ZERO testing from the "QA" team. I was always a bit shocked and frustrated with this approach. So I moved into security testing.. and I have to say "holy fk!!". 
 
