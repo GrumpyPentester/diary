@@ -2,9 +2,8 @@
 layout: default
 title:  "'Tis the season to be tested"
 date:   2021-12-05 00:00:00
-thumbnail: "/spicyMemes/priority.jpg"
-header:
-  teaser: "/spicyMemes/priority.jpg"
+image:
+    path: spicyMemes/priority.jpg
 categories: diary
 ---
 <h1>'Tis the season to be tested</h1>
