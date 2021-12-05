@@ -4,15 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Exploring the lesser talked about aspects of a penetration tester's job.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+All posts are based on real stories, names have been changed to maintain confidentiality :)
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+This will not focus on being a technical blog, I think that there are a ton of resources out there if you are looking for that. Feel free however to reach out via Twitter if you need help, not saying I can help with everything but I am more than glad to do it where I can.
 
-
-[jekyll-organization]: https://github.com/jekyll
+Whoami? Just a person that's been working in the security field for about 5 years; that is like 20 in human years.
